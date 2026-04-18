@@ -21,15 +21,15 @@ Through academic and personal projects, I’ve developed experience in:
 ---
 
 ##🛠️ Technical Skills
+
 Languages & Tools
 
 - Python
 - SQL
 - R (RStudio)
-
+  
 Data Analysis & Econometrics
 
-- Pandas, NumPy
 - statistical analysis
 - regression models and risk modeling
   
@@ -38,12 +38,16 @@ Machine Learning
 - foundational experience with PyTorch and scikit-learn
 - model evaluation and feature engineering
 - time series forecasting (ARIMA, ARIMAX)
-- Data Engineering (Foundations)
-- SQL (data querying, joins, aggregation)
-- PySpark (basics of distributed data processing)
-- Kafka (event-driven pipelines)
-- DVC (data & model versioning)
 
+Data Engineering & Big Data
+
+- SQL (data querying, joins, aggregation)
+- PySpark (distributed data processing – basics)
+- Kafka (event-driven pipelines)
+- Elasticsearch (search and analytics)
+- Hadoop (distributed data ecosystem)
+- DVC (data & model versioning)
+  
 ---
 
 📊 Projects
