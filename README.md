@@ -12,11 +12,11 @@ I specialize in data analysis and modeling, from data exploration to building ma
 
 Through academic and personal projects, I’ve developed experience in:
 
-data cleaning and exploration
-statistical and econometric modeling
-time series forecasting
-machine learning and model evaluation
-structuring data workflows for reproducibility 
+- data cleaning and exploration
+- statistical and econometric modeling
+- time series forecasting
+- machine learning and model evaluation
+- structuring data workflows for reproducibility 
 
 ---
 
