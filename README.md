@@ -23,7 +23,9 @@ Through academic and personal projects, I’ve developed experience in:
 ##🛠️ Technical Skills
 Languages & Tools
 
-- Python, SQL, R (RStudio)
+- ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+- SQL
+- ![GitHub R package version](https://img.shields.io/github/r-package/v/:user/:repo)
 
 Data Analysis & Econometrics
 
