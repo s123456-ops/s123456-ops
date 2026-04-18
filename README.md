@@ -20,7 +20,7 @@ Through academic and personal projects, I’ve developed experience in:
 
 ---
 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 Languages & Tools
 
