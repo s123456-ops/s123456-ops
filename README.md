@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I specialize in data analysis and modeling, from data exploration to building machine learning solutions.
 
