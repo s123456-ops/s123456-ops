@@ -2,61 +2,76 @@
 
 🎓 Master's student in **Big Data, Analysis & Business Intelligence**  
 📍 Université Sorbonne Paris Nord – France  
-💡 Passionate about **data analysis, econometrics, and real-world problem solving**
+💡 Interested in data analysis, machine learning, and real-world applications, with a focus on economic and financial contexts
 
 ---
 
 ## 🚀 About Me
 
-I specialize in **data analysis and modeling**, with a strong interest in **economic and financial applications**.  
+I specialize in data analysis and modeling, from data exploration to building machine learning solutions.
 
-Through my academic and personal projects, I’ve developed solid skills in:
-- Data cleaning & exploration  
-- Econometric modeling  
-- Time series forecasting  
-- Data visualization & decision support  
+Through academic and personal projects, I’ve developed experience in:
 
----
-
-## 🛠️ Technical Skills
-
-- **Languages & Tools:** Python, SQL, R (RStudio)
-- **Data Analysis:** Pandas, statistical analysis
-- **Econometrics:** Regression models, risk modeling
-- **Time Series:** ARIMA / ARIMAX, stationarity tests
-- **Data Visualization:** Dashboards, insights communication
-- **Other:** MS Office
+data cleaning and exploration
+statistical and econometric modeling
+time series forecasting
+machine learning and model evaluation
+structuring data workflows for reproducibility 
 
 ---
 
-## 📊 Projects
+##🛠️ Technical Skills
+Languages & Tools
 
-### 📌 Econometric Analysis – Climate Risks & Credit Access
-- Analyzed a dataset of **12,000+ observations**
-- Built econometric models to identify **credit risk determinants**
-- Highlighted the impact of **climate variables on financing access**
+- Python, SQL, R (RStudio)
+
+Data Analysis & Econometrics
+
+- Pandas, NumPy
+- statistical analysis
+- regression models and risk modeling
+  
+Machine Learning
+
+- foundational experience with PyTorch and scikit-learn
+- model evaluation and feature engineering
+- time series forecasting (ARIMA, ARIMAX)
+- Data Engineering (Foundations)
+- SQL (data querying, joins, aggregation)
+- PySpark (basics of distributed data processing)
+- Kafka (event-driven pipelines)
+- DVC (data & model versioning)
 
 ---
 
-### 📌 Solar Energy Consumption Forecasting (France)
-- Built **ARIMA / ARIMAX models** for time series forecasting
-- Conducted stationarity tests and model comparison
-- Delivered accurate energy consumption predictions
+📊 Projects
 
----
+🍎 Product Classification Pipeline
 
-### 📌 Commercial Performance Analysis
-- Extracted and cleaned data using **SQL**
-- Performed exploratory data analysis
-- Created **KPIs and visual insights** for decision-making
+👉 https://github.com/s123456-ops/product-classification-pipeline
 
----
+End-to-end project combining data collection, preprocessing, and image classification using a ResNet-18 model, with reproducibility ensured through DVC.
 
-### 📌 Real-Time Medical Monitoring System
-- Built a **data pipeline (event-driven architecture)**
-- Technologies: Python, Kafka, Elasticsearch, Kibana
-- Detected anomalies in patient data
-- Designed **interactive dashboards**
+
+🧱 ML Cookiecutter Template
+
+👉 https://github.com/s123456-ops/ml-cookiecutter-template
+
+Reusable template to generate structured ML projects with modular architecture and reproducible setup.
+
+
+🌍 ML Translation Pipeline
+
+👉 https://github.com/s123456-ops/ml-translation-pipeline
+
+Modular NLP project for automatic translation, including data processing, model application, and evaluation.
+
+
+☀️ Solar Energy Consumption Forecasting (France)
+
+👉 https://github.com/s123456-ops/solar-energy-consumption-forecasting
+
+Time series analysis and forecasting using ARIMA / ARIMAX models, including stationarity testing and model comparison.
 
 ---
 
@@ -103,7 +118,6 @@ Through my academic and personal projects, I’ve developed solid skills in:
 ## 📫 Contact
 
 📧 salmaalaouimrani05@gmail.com  
-📱 +33 6 09 09 15 86  
 🔗 LinkedIn: https://www.linkedin.com/in/salma-alaoui-mrani/
 
 
