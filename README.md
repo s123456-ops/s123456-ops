@@ -50,7 +50,7 @@ Data Engineering & Big Data
   
 ---
 
-📊 Projects
+## 📊 Projects
 
 🍎 Product Classification Pipeline
 
