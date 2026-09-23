@@ -52,32 +52,38 @@ Data Engineering & Big Data
 
 ## 📊 Projects
 
+☀️ Solar Energy Consumption Forecasting (France)
+
+👉 https://github.com/s123456-ops/solar-energy-consumption-forecasting
+
+Time series analysis and forecasting using ARIMA / ARIMAX models, including stationarity testing and model comparison.
+
+💼 ClassicModels Analysis
+
+👉 https://github.com/s123456-ops/Commercial-Performance-Analysis.git
+
+This project analyzes the **ClassicModels** database using **SQL and Python**.
+
+The objective is to explore the data, document SQL queries and create visualizations to highlight key **business insights and performance indicators**.
+
+⚽ Home Advantage in the Premier League
+
+👉 https://github.com/s123456-ops/epl-home-advantage-analysis.git
+
+This project analyzes match data from the Premier League to evaluate the existence and magnitude of home advantage.
+
+🏎️ F1 Driver Performance Analysis (PySpark)
+
+👉 https://github.com/s123456-ops/f1-pyspark-analysis.git
+
+This project analyzes Formula 1 driver performance using PySpark.
+
 🍎 Product Classification Pipeline
 
 👉 https://github.com/s123456-ops/product-classification-pipeline
 
 End-to-end project combining data collection, preprocessing, and image classification using a ResNet-18 model, with reproducibility ensured through DVC.
 
-
-🧱 ML Cookiecutter Template
-
-👉 https://github.com/s123456-ops/ml-cookiecutter-template
-
-Reusable template to generate structured ML projects with modular architecture and reproducible setup.
-
-
-🌍 ML Translation Pipeline
-
-👉 https://github.com/s123456-ops/ml-translation-pipeline
-
-Modular NLP project for automatic translation, including data processing, model application, and evaluation.
-
-
-☀️ Solar Energy Consumption Forecasting (France)
-
-👉 https://github.com/s123456-ops/solar-energy-consumption-forecasting
-
-Time series analysis and forecasting using ARIMA / ARIMAX models, including stationarity testing and model comparison.
 
 ---
 
