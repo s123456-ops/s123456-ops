@@ -43,7 +43,7 @@ I'm particularly interested in using data to understand real-world and business 
 <img src="https://skillicons.dev/icons?i=spark,kafka,elasticsearch" />
 </p>
 
-**PySpark · Apache Spark · Kafka · Elasticsearch · Distributed Data Processing **
+**PySpark · Apache Spark · Kafka · Elasticsearch · Distributed Data Processing**
 
 ### 🤖 Machine Learning (basics)
 
