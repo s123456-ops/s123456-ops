@@ -1,135 +1,156 @@
+<div align="center">
+
 # 👋 Hi, I'm Salma ALAOUI MRANI
 
-🎓 Master's student in **Big Data, Analysis & Business Intelligence**  
-📍 Université Sorbonne Paris Nord – France  
-💡 Interested in data analysis, machine learning, and real-world applications, with a focus on economic and financial contexts
+### 📊 Data Analysis · Business Intelligence · Big Data · Econometrics
+
+🎓 **M2 Big Data, Analysis & Business Intelligence**
+📍 Université Sorbonne Paris Nord · France
+
+</div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I specialize in data analysis and modeling, from data exploration to building machine learning solutions.
+I'm a Master's student specializing in **data analysis, business intelligence and applied analytics**, with a background in **economics and management**.
 
-Through academic and personal projects, I’ve developed experience in:
+I enjoy working across the data workflow — from **cleaning and exploration** to **statistical modelling, forecasting, visualization and business analysis**.
 
-- data cleaning and exploration
-- statistical and econometric modeling
-- time series forecasting
-- machine learning and model evaluation
-- structuring data workflows for reproducibility 
+I'm particularly interested in using data to understand real-world and business problems, combining my background in economics with technical data skills.
+
+🔎 **Currently looking for a final-year internship in Data Analysis, Business Intelligence or Data/BI Consulting.**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-Languages & Tools
+### 📊 Data & Analytics
 
-- Python
-- SQL
-- R (RStudio)
-  
-Data Analysis & Econometrics
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+</p>
 
-- statistical analysis
-- regression models and risk modeling
-  
-Machine Learning
+**Python · R · SQL · Scala (basics) · Pandas · Statistical Analysis · Econometrics · Time Series · Data Visualization**
 
-- foundational experience with PyTorch and scikit-learn
-- model evaluation and feature engineering
-- time series forecasting (ARIMA, ARIMAX)
+### 📈 Business Intelligence
 
-Data Engineering & Big Data
+**Power BI · Excel · KPI Analysis · Reporting · Business Analysis**
 
-- SQL (data querying, joins, aggregation)
-- PySpark (distributed data processing – basics)
-- Kafka (event-driven pipelines)
-- Elasticsearch (search and analytics)
-- Hadoop (distributed data ecosystem)
-- DVC (data & model versioning)
-  
----
+### ⚡ Big Data & Data Processing
 
-## 📊 Projects
+<p>
+<img src="https://skillicons.dev/icons?i=spark,kafka,elasticsearch" />
+</p>
 
-☀️ Solar Energy Consumption Forecasting (France)
+**PySpark · Apache Spark · Kafka · Elasticsearch · Distributed Data Processing **
 
-👉 https://github.com/s123456-ops/solar-energy-consumption-forecasting
+### 🤖 Machine Learning (basics)
 
-Time series analysis and forecasting using ARIMA / ARIMAX models, including stationarity testing and model comparison.
+**PyTorch · Model Evaluation · Image Classification**
 
-💼 ClassicModels Analysis
+### 🔧 Tools
 
-👉 https://github.com/s123456-ops/Commercial-Performance-Analysis.git
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
-This project analyzes the **ClassicModels** database using **SQL and Python**.
-
-The objective is to explore the data, document SQL queries and create visualizations to highlight key **business insights and performance indicators**.
-
-⚽ Home Advantage in the Premier League
-
-👉 https://github.com/s123456-ops/epl-home-advantage-analysis.git
-
-This project analyzes match data from the Premier League to evaluate the existence and magnitude of home advantage.
-
-🏎️ F1 Driver Performance Analysis (PySpark)
-
-👉 https://github.com/s123456-ops/f1-pyspark-analysis.git
-
-This project analyzes Formula 1 driver performance using PySpark.
-
-🍎 Product Classification Pipeline
-
-👉 https://github.com/s123456-ops/product-classification-pipeline
-
-End-to-end project combining data collection, preprocessing, and image classification using a ResNet-18 model, with reproducibility ensured through DVC.
-
+**Git · GitHub · VS Code · Jupyter · RStudio**
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### 🎓 Université Sorbonne Paris Nord
-**Agent d’accueil et d’orientation (2024–2025)**
-- Managed student flow and communication
-- Delivered clear and adapted information
+### 💼 Commercial Performance Analysis
 
-**English Tutor (2022–2025)**
-- Designed personalized lessons
-- Prepared students for TOEIC / TOEFL
-- Tracked progress and performance
+**SQL · Python · Pandas · Business Analysis**
+
+Analysis of the **ClassicModels** database using SQL and Python, combining data exploration, business queries, KPI analysis and visualizations to identify useful performance insights.
+
+🔗 **Repository:**
+https://github.com/s123456-ops/Commercial-Performance-Analysis.git
+---
+
+### ☀️ Solar Energy Consumption Forecasting
+
+**R · ARIMA · ARIMAX · Time Series**
+
+Time series analysis and forecasting of solar energy consumption in France. The project includes **stationarity testing, model comparison and forecasting evaluation**.
+
+🔗 **Repository:**
+https://github.com/s123456-ops/solar-energy-consumption-forecasting.git
+---
+
+### ⚽ Premier League Home Advantage
+
+**Python · Statistics · Data Analysis**
+
+Analysis of Premier League match data to investigate the existence and magnitude of **home advantage**, including comparisons across different periods.
+
+🔗 **Repository:**
+https://github.com/s123456-ops/epl-home-advantage-analysis.git
+---
+
+### 🏎️ F1 Driver Performance Analysis
+
+**PySpark · Big Data · Data Analysis**
+
+Analysis of Formula 1 driver performance using **PySpark**, with teammate comparisons used to better isolate individual driver performance from differences in car performance.
+
+🔗 **Repository:**
+https://github.com/s123456-ops/f1-pyspark-analysis.git
+---
+
+### 🍎 Product Classification Pipeline
+
+**PyTorch · ResNet-18 · DVC · Computer Vision**
+
+An end-to-end image classification project combining **data collection, preprocessing, model training and evaluation**, with DVC used to support reproducibility.
+
+🔗 **Repository:**
+https://github.com/s123456-ops/product-classification-pipeline.git
+---
+
+## 🎓 Education
+
+**Master's — Big Data, Analysis & Business Intelligence**
+Université Sorbonne Paris Nord · 2025–Present
+
+**Bachelor's — Economics & Management, Economics, Finance & Business**
+Université Sorbonne Paris Nord · 2022–2025
+
+My academic background combines **economics and data analysis**, allowing me to approach data from both a technical and business perspective.
 
 ---
 
 ## 🌍 Languages
 
-- 🇫🇷 French – C1 (DALF)
-- 🇬🇧 English – C1 (TOEIC 985/990)
-- 🇲🇦 Arabic – Native
+- 🇲🇦 **Arabic** — Native 
+- 🇬🇧 **English** — C1 · TOEIC 985/990
+- 🇫🇷 **French** — C1 · DALF C1
 
 ---
 
-## 🧠 Soft Skills
+## ✨ Beyond Data
 
-- Analytical thinking  
-- Rigor & attention to detail  
-- Adaptability  
-- Teamwork  
-- Creativity  
+When I'm not working with data, you'll probably find me:
 
----
-
-## 🎯 Interests
-
-- 📚 Reading (fantasy & horror)
-- 🎤 Singing 
-- 🤸‍♀️ Gymnastics (regional competitions)
+- 📚 Reading fantasy & horror
+- 🎤 Singing
+- 🕹️ Gaming
+- ☕ Exploring places with a coffee and a good book
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-📧 salmaalaouimrani05@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/salma-alaoui-mrani/
+### 💡 Turning data into insights, one project at a time.
+
+📫 **Let's connect**
+<p>
+  <a href="https://www.linkedin.com/in/salma-alaoui-mrani/">LinkedIn</a> ·
+  salmaalaouimrani05@gmail.com
+</p>
 
 
+</div>
