@@ -126,7 +126,7 @@ My academic background combines **economics and data analysis**, allowing me to 
 ## 🌍 Languages
 
 - 🇲🇦 **Arabic** — Native 
-- 🇬🇧 **English** — C1 · TOEIC 985/990
+- 🇬🇧 **English** — Bilingual · TOEIC 985/990
 - 🇫🇷 **French** — C1 · DALF C1
 
 ---
